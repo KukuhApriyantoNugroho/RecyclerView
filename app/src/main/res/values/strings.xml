@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="pet_name">
+        <item>Capcay Goreng Bakso</item>
+        <item>Tumis Kangkung Terasi</item>
+        <item>Terong Balado</item>
+        <item>Sayur Asem</item>
+        <item>Sambal Goreng Kentang Tempe</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>Rasane enak</item>
+        <item>Jangan seret</item>
+        <item>Terong terongan</item>
+        <item>Kurang asem</item>
+        <item>Sambal Goreng Kentang Tempe rasane maknyus</item>
+    </string-array>
+</resources>
